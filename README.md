@@ -1,7 +1,7 @@
 # Minha Primeira Animação
 Um projeto de animação usando o programa Moho Debut . O objetivo é criar uma animação simples com personagens e objetos em movimento 😜.
 
-<img src="./suco-de-limao-finalizado.gif" alt= "Animação Suco de Limão" width="300" height="200">
+![suco-de-limao-finalizado](https://github.com/user-attachments/assets/0bef1c75-ff78-4bed-bc26-258c04b85cb3)
 
 ### Passo a Passo
 1. Criação do Personagem: Comece desenhando seu personagem utilizando as ferramentas de desenho do Moho. Você pode usar camadas para separar diferentes partes do corpo (cabeça, braços, pernas).
